@@ -1,0 +1,19 @@
+{
+  "name": "cryptrobot-generator",
+  "version": "1.0.0",
+  "description": "cryptrobot generator tool for generating cryptrobot nfts using svgs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "cryptrobot-generator"
+  },
+  "keywords": [
+    "coinversus",
+    "cryptrobots"
+  ],
+  "author": "coinversus",
+  "license": "MIT"
+}
