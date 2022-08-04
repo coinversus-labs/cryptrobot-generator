@@ -27,3 +27,7 @@ SOL - #9945FF - #14F195
 AVAX - #E84142
 
 MATIC - #8247E5
+
+## Cryptrobot Races
+
+Cryptrobot race is defined by cryptrobot gem(coin) that goes into cryptrobot socket located in the center of the cryptrobot body
