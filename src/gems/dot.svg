@@ -1,0 +1,10 @@
+  <g id="gem">
+    <g id="dot">
+      <ellipse cx="1000" cy="980.94" rx="49.61" ry="28.85" style="fill: #e6007a"/>
+      <ellipse cx="1000" cy="1198.35" rx="49.61" ry="28.85" style="fill: #e6007a"/>
+      <ellipse cx="905.86" cy="1035.3" rx="49.61" ry="28.87" transform="translate(-443.67 1302.13) rotate(-60)" style="fill: #e6007a"/>
+      <ellipse cx="1094.14" cy="1144" rx="49.61" ry="28.85" transform="translate(-443.67 1519.54) rotate(-60)" style="fill: #e6007a"/>
+      <ellipse cx="905.87" cy="1144" rx="28.87" ry="49.61" transform="translate(-450.64 606.22) rotate(-30)" style="fill: #e6007a"/>
+      <ellipse cx="1094.15" cy="1035.31" rx="28.85" ry="49.61" transform="translate(-371.07 685.8) rotate(-30)" style="fill: #e6007a"/>
+    </g>
+  </g>

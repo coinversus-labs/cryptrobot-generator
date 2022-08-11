@@ -1,0 +1,52 @@
+  <g id="race-4">
+    <g id="head">
+      <g>
+        <rect x="959.13" y="649.72" width="81.74" height="50.01"/>
+        <rect x="959.13" y="649.72" width="81.74" height="22.85" style="fill: #3c3c3b"/>
+        <rect x="959.13" y="676.88" width="81.74" height="22.85" style="fill: #3c3c3b"/>
+      </g>
+      <line x1="1000" y1="349.08" x2="1000" y2="464.63" style="fill: none;stroke: #f7931a;stroke-miterlimit: 10;stroke-width: 15.4068885118222px"/>
+      <circle cx="1000" cy="333.03" r="32.74" style="fill: #101823"/>
+      <path d="M1133.3,649.72H866.7a18.59,18.59,0,0,1-18.06-13.64l-41-154c-3.07-11.54,5.85-22.8,18.06-22.8h348.62c12.21,0,21.13,11.26,18.06,22.8l-41,154A18.59,18.59,0,0,1,1133.3,649.72Z" style="fill: #f7931a"/>
+      <path d="M1111.34,635.84H888.66a15.52,15.52,0,0,1-15.08-11.39L839.32,495.86c-2.56-9.64,4.89-19,15.09-19h291.18c10.2,0,17.65,9.4,15.09,19l-34.26,128.59A15.52,15.52,0,0,1,1111.34,635.84Z" style="fill: #101823"/>
+      <g>
+        <rect x="902.79" y="518.8" width="32.6" height="47.89" rx="3.17" style="fill: #fff"/>
+        <rect x="1064.61" y="518.8" width="32.6" height="47.89" rx="3.17" style="fill: #fff"/>
+      </g>
+      <path d="M1030,584.05a30,30,0,0,1-59.9-.14" style="fill: #f7931a"/>
+    </g>
+    <g id="body">
+      <rect x="616.54" y="695.45" width="766.92" height="766.92" style="fill: #f7931a"/>
+      <polygon points="1116.37 886.45 883.63 886.45 767.26 1088 883.63 1289.56 1116.37 1289.56 1232.74 1088 1116.37 886.45" style="fill: #f7931a"/>
+      <polygon points="1122.87 1291.39 1239.24 1089.83 1116.22 876.74 883.49 876.74 760.76 1089.83 877.13 1291.39 1122.87 1291.39" style="fill: none;stroke: #e38819;stroke-miterlimit: 10;stroke-width: 15.4068885118222px"/>
+      <g id="Layer_17_copy_12" data-name="Layer 17 copy 12">
+        <circle cx="1000" cy="1090.83" r="167.87" style="fill: #101823"/>
+      </g>
+    </g>
+    <g id="right-arm">
+      <line x1="628.94" y1="805.66" x2="446.46" y2="934.05" style="fill: none;stroke: #101823;stroke-miterlimit: 10;stroke-width: 26.496053094376px"/>
+      <path d="M499.45,800.78a126.07,126.07,0,1,1,252.13,2" style="fill: #e38819"/>
+      <path d="M622.6,901.93a103.27,103.27,0,0,1,0-206.53" style="fill: #f7931a"/>
+      <line x1="522.14" y1="1143.94" x2="446.48" y2="934.04" style="fill: none;stroke: #101823;stroke-miterlimit: 10;stroke-width: 26.496053094376px"/>
+      <circle cx="457.08" cy="934.04" r="42.38" style="fill: #f7931a"/>
+      <circle cx="622.61" cy="798.46" r="42.38" style="fill: #e38819"/>
+      <path d="M537.68,1273.16l-1.45-.18a69.94,69.94,0,1,1,57.12-18.34" style="fill: none;stroke: #101823;stroke-miterlimit: 10;stroke-width: 32.9827168457376px"/>
+      <circle cx="520.89" cy="1143.48" r="42.38" style="fill: #f7931a"/>
+      <circle cx="520.89" cy="1143.56" r="29.13" style="fill: #e38819"/>
+      <circle cx="457.08" cy="934.04" r="29.13" style="fill: #e38819"/>
+      <circle cx="520.89" cy="1143.48" r="21.43" style="fill: #101823"/>
+    </g>
+    <g id="left-arm">
+      <line x1="1386.02" y1="805.05" x2="1562.69" y2="941.34" style="fill: none;stroke: #101823;stroke-miterlimit: 10;stroke-width: 26.496053094376px"/>
+      <path d="M1245.42,800.78a126.07,126.07,0,1,1,252.13,2" style="fill: #e38819"/>
+      <path d="M1363.27,901a103.27,103.27,0,1,0,20.55-205.51" style="fill: #f7931a"/>
+      <line x1="1477.87" y1="1147.7" x2="1562.67" y2="941.32" style="fill: none;stroke: #101823;stroke-miterlimit: 10;stroke-width: 26.496053094376px"/>
+      <circle cx="1542.93" cy="941.32" r="42.38" style="fill: #f7931a"/>
+      <circle cx="1378.53" cy="797.46" r="42.38" style="fill: #e38819"/>
+      <path d="M1465.5,1279.46l1.44-.18a69.94,69.94,0,1,0-57.11-18.34" style="fill: none;stroke: #101823;stroke-miterlimit: 10;stroke-width: 32.9827168457376px"/>
+      <circle cx="1479.13" cy="1147.3" r="42.38" style="fill: #f7931a"/>
+      <circle cx="1542.93" cy="941.32" r="29.13" style="fill: #e38819"/>
+      <circle cx="1479.13" cy="1147.3" r="29.13" style="fill: #e38819"/>
+      <circle cx="1479.13" cy="1147.3" r="21.43" style="fill: #101823"/>
+    </g>
+  </g>

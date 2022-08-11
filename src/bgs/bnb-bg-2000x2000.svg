@@ -1,12 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2010.72 2010.72">
-  <defs>
-    <clipPath id="clip-path" transform="translate(4.8 4.8)">
-      <rect x="0.5" y="0.5" width="2000" height="2000" fill="none"/>
-    </clipPath>
-    <clipPath id="clip-path-2" transform="translate(4.8 4.8)">
-      <rect x="-4.5" y="-4.5" width="2010" height="2010" fill="none"/>
-    </clipPath>
-  </defs>
   <g id="bg-bnb">
     <g id="bnb-bg">
       <g clip-path="url(#clip-path)">
@@ -17,7 +8,3 @@
       <rect x="5.3" y="5.3" width="2000" height="2000" fill="none" stroke="#231f20" stroke-miterlimit="10"/>
     </g>
   </g>
-  <g id="base">
-    <rect id="base-2" data-name="base" x="817.8" y="1479.8" width="374" height="143" rx="10.4" fill="#101823"/>
-  </g>
-</svg>
