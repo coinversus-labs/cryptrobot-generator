@@ -15,5 +15,8 @@
     "cryptrobots"
   ],
   "author": "coinversus",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.30.7"
+  }
 }
